@@ -1,4 +1,7 @@
-# electron-react-boilerplate
+# TogglReport
+
+> This repo is TogglReport, a desktop reporting tool for the Toggl time-tracking service. It is an Electron app (product name TogglReport Desktop APP, see `package.json`) built with React, React Router, and Webpack, with React Hot Loader for rapid application development. The boilerplate readme for the underlying electron-react-boilerplate follows below.
+
 
 [![NPM version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
