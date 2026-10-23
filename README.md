@@ -18,6 +18,20 @@
 
 ![](https://cloud.githubusercontent.com/assets/3382565/10557547/b1f07a4e-74e3-11e5-8d27-79ab6947d429.gif)
 
+## TogglReport development
+
+Scripts from this repo's `package.json` (the boilerplate scripts below also apply):
+
+| Script | Description |
+| --- | --- |
+| `npm run hot-server` | Start the hot-reload dev server |
+| `npm run start-hot` | Run the Electron app with hot reloading |
+| `npm run build` | Build main and renderer for production |
+| `npm start` | Run the production build in Electron |
+| `npm run package` | Package the app (add `-- --all` for all platforms) |
+| `npm test` | Run the unit specs under `test/` |
+| `npm run lint` | Lint `app`, `test`, and root JS files |
+
 ## Install
 
 First, clone the repo via git:
